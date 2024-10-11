@@ -39,9 +39,44 @@ I denna övning kommer ni att få träna på de mest grundläggande sakerna som 
 
 1. Gör en ändring i din README-fil lokalt på VSCode. Spara, stagea och committa. PUSHA INTE!
 2. Gå till din README-fil på Github och gör en ändring eller lägg till någonting.
+3. Gå tillbaks till terminalen och pusha din lokala ändring (om du gjort rätt bör du nu få ett varningsmeddelande).
+4. Kör kommandot ```git pull``` i terminalen för att dra hem de senaste ändringarna från Github.
+5. Gå till VSCode och lös konflikten.
+6. När konflikten är löst så kan du stagea, committa och pusha till Github.
 
+## Git Cheat Sheet
 
 <details>
-  <summary>Klicka här för att visa de kommandon som ni bör lära er</summary>
+  <summary>Initiera repo lokalt</summary>
+  ```git init```
+</details>
 
+<details>
+  <summary>Klona hem ditt repo från Github</summary>
+  ```git clone <din-repo-url>```
+</details>
+    
+<details>
+  <summary>Kolla status för ditt repo</summary>
+  ```git status```
+</details>
+
+<details>
+  <summary>Stagea dina ändringar</summary>
+  ```git add .```
+</details>
+
+<details>
+  <summary>Committa dina ändringar</summary>
+  ```git commit -m "<ditt-committ-meddelande>"```
+</details>
+    
+<details>
+  <summary>Pusha dina ändringar till Github</summary>
+  ```git push```
+</details>
+
+<details>
+  <summary>Dra hem de senaste ändringarna från Github</summary>
+  ```git pull```
 </details>
