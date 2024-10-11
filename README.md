@@ -29,14 +29,16 @@ I denna övning kommer ni att få träna på de mest grundläggande sakerna som 
 4. Gå tillbaks tll terminalen och kör kommandot ```git status``` (viktigt att terminalen står i din repo-mapp). Om allt lyckats bör du nu se vilken/vilka filer i ditt repo som ändrats.
 
 ## Steg 5 - Stagea, Committa och Pusha dina ändringar till Github
+
 1. Se till så att du står i din repo-mapp i terminalen.
 2. Kör först kommandot ```git add .``` (notera att det är ett mellanslag innan punkten. Punkten indikerar att vi vill stagea ALLA ändringar som gjort. Vill du bara stagea en enstaka ändring så ersätter du punkten med den filens namn).
 3. För att committa så kör du kommandot ```git commit -m "<ditt-commit--meddelande>"``` (glöm för guds skull inte den senare delen med "-m osv...", isåfall hamnar du i en fruktansvärd editor där det nästan inte går ta sig ut).
 4. Kontrollera om din ändrig syns på Github
 
-Tjenis
+## Steg 6 - Hantera konflikter
 
-## Steg 6 - Hantera konflikter lokalt
+1. Gör en ändring i din README-fil lokalt på VSCode. Spara, stagea och committa. PUSHA INTE!
+2. Gå till din README-fil på Github och gör en ändring eller lägg till någonting.
 
 
 <details>
