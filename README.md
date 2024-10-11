@@ -68,7 +68,7 @@ git add .
 
 <details>
   <summary>Committa dina ändringar</summary>
-git commit -m "<ditt-committ-meddelande>"
+git commit -m "ditt-committ-meddelande"
 </details>
     
 <details>
