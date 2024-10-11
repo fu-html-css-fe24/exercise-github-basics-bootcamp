@@ -48,35 +48,35 @@ I denna övning kommer ni att få träna på de mest grundläggande sakerna som 
 
 <details>
   <summary>Initiera repo lokalt</summary>
-  ```git init```
+git init
 </details>
 
 <details>
   <summary>Klona hem ditt repo från Github</summary>
-  ```git clone <din-repo-url>```
+git clone <din-repo-url>
 </details>
     
 <details>
   <summary>Kolla status för ditt repo</summary>
-  ```git status```
+git status
 </details>
 
 <details>
   <summary>Stagea dina ändringar</summary>
-  ```git add .```
+git add .
 </details>
 
 <details>
   <summary>Committa dina ändringar</summary>
-  ```git commit -m "<ditt-committ-meddelande>"```
+git commit -m "<ditt-committ-meddelande>"
 </details>
     
 <details>
   <summary>Pusha dina ändringar till Github</summary>
-```git push```
+git push
 </details>
 
 <details>
   <summary>Dra hem de senaste ändringarna från Github</summary>
-```git pull```
+git pull
 </details>
