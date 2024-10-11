@@ -73,10 +73,10 @@ I denna övning kommer ni att få träna på de mest grundläggande sakerna som 
     
 <details>
   <summary>Pusha dina ändringar till Github</summary>
-  ```git push```
+```git push```
 </details>
 
 <details>
   <summary>Dra hem de senaste ändringarna från Github</summary>
-  ```git pull```
+```git pull```
 </details>
