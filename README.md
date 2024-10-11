@@ -34,7 +34,7 @@ I denna övning kommer ni att få träna på de mest grundläggande sakerna som 
 3. För att committa så kör du kommandot ```git commit -m "<ditt-commit--meddelande>"``` (glöm för guds skull inte den senare delen med "-m osv...", isåfall hamnar du i en fruktansvärd editor där det nästan inte går ta sig ut).
 4. Kontrollera om din ändrig syns på Github
 
-Steg 6 - Hantera konflikter
+Steg 6 - Hantera konflikter remote
 
 
 <details>
